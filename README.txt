@@ -11,7 +11,6 @@ This is a *development* dataset. As such, it may change over time and is not an 
 
 This and other GroupLens data sets are publicly available for download at <http://grouplens.org/datasets/>.
 
-
 Usage License
 =============
 
